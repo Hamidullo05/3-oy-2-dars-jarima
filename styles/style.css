@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main {
+    width: 1440px;
+    height: 1024px;
+    background-color: #EE1A73;
+    margin: 0 auto;
+    padding: 82px 80px
+    
+    
+    
+}
+.bady {
+
+    width: 1280px;
+    height: 860px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 82px;
+}
+h1 {
+    align-items: center;
+margin-left: 571px;    
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 500;
+}
+p {
+    
+    width: 593px;
+    margin-left: 343px;
+    margin-bottom: 53px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.main_p {
+    margin-left: 100px;
+}
